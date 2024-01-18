@@ -13,6 +13,7 @@ The amount of holders is decereased to 2 for this version, I find it sufficient,
 I've also expanded the hole size for the required 34 M2.5x14 screws, you can use screws that are slightly shorter as well if you can't find
 that specific size locally.
 You will also find some assembly instructions, these might also help if you're building the original Cube terminal.
+All parts can be printed without supports.
 
 
 PARTS:
