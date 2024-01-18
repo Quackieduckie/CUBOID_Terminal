@@ -22,7 +22,7 @@ PARTS:
 
 (If you're ordering these, please consider getting them through links on doscher.com to support Jays work)
 
-34 M2.5x14mm Screws (I used black oxide socket head)
+34 M2.5x14mm Screws (I used black oxide socket heads)
 
 Waveshare 4" LCD Screen
 
